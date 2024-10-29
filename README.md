@@ -50,6 +50,8 @@ For projects hosted elsewhere, use this format:
 
 ## Rust
 
+* [ceronman/writing-a-c-compiler](https://github.com/ceronman/writing-a-c-compiler) - Work in progress, I have implemented up to chapter 12 including all extra-credit. Only macOS supported for now. I push updates almost every day.
+
 * [ianyourgod/batpu-c-compiler](https://github.com/ianyourgod/batpu-c-compiler) - Rust implementation for the [BATPU2](https://www.youtube.com/watch?v=3gBZHXqnleU), a CPU made for/in minecraft: uses the GCC preprocessor, and has absolutely terrible error messages. All parts finished. A few part 2 features are missing (floats, longs, unsigned), as the CPU does not support them.
 
 * [neildanson/c_compiler](https://github.com/neildanson/c_compiler) - Rust implementation based entirely on the book, following x86-64. Verified working on WSL2 on Windows and MacOS. Work In progress.
