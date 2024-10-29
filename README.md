@@ -10,6 +10,7 @@ See the [contributing](#contributing) section for details on how to add your imp
 
 * [Contributing](#contributing)
 * [Implementations](#implementations)
+  * [Ada](#ada)
   * [C](#c)
   * [C++](#c-1)
   * [OCaml](#ocaml)
@@ -35,6 +36,10 @@ For projects hosted elsewhere, use this format:
  * [name of project](https://) - A few optional sentences about your project. E.g. if you've made different design decisions than the book suggests or implemented extra features, you can mention it here.
 
 # Implementations
+
+## Ada
+
+* [JeremyGrosser/wacc](https://github.com/JeremyGrosser/wacc) - Handwritten lexer, using record types with discriminants to model ASDL structures.
 
 ## C
 
