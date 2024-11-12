@@ -56,7 +56,7 @@ For projects hosted elsewhere, use this format:
 
 ## Perl
 
-* [sir-galahad](https://github.com/sir-galahad/adcc) - C compiler in Perl, for Linux seemed like a good idea, Perl hashes make it quick to build complex data structures.
+* [sir-galahad/adcc](https://github.com/sir-galahad/adcc) - C compiler in Perl, for Linux seemed like a good idea, Perl hashes make it quick to build complex data structures.
 
 ## Rust
 
