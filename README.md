@@ -14,6 +14,7 @@ See the [contributing](#contributing) section for details on how to add your imp
   * [C](#c)
   * [C++](#c-1)
   * [OCaml](#ocaml)
+  * [Perl](#perl)
   * [Rust](#rust)
 
 # Contributing
@@ -52,6 +53,10 @@ For projects hosted elsewhere, use this format:
 ## OCaml
 
 * [nlsandler/nqcc2](https://github.com/nlsandler/nqcc2) - This is the official reference implementation for the book!
+
+## Perl
+
+* [sir-galahad](https://github.com/sir-galahad/adcc) - C compiler in Perl, for Linux seemed like a good idea, Perl hashes make it quick to build complex data structures.
 
 ## Rust
 
