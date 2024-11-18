@@ -13,6 +13,7 @@ See the [contributing](#contributing) section for details on how to add your imp
   * [Ada](#ada)
   * [C](#c)
   * [C++](#c-1)
+  * [Haskell](#haskell)
   * [OCaml](#ocaml)
   * [Perl](#perl)
   * [Rust](#rust)
@@ -49,6 +50,10 @@ For projects hosted elsewhere, use this format:
 * [Gnomeball/C-Compiler](https://github.com/Gnomeball/C-Compiler) - Implemented on Linux; only notable change from the intended design is the use of a byte code representation instead of an AST while parsing; so far only chapter one is 'complete', though it's extremely rough.
 
 * [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) - C++ (>=17) implementation for Linux: with some builtin preprocessing, comprehensive error messages with source locations and more features to come! (Part 1, 2 and extra-credits done. Part 3 in progress.)
+
+## Haskell
+
+* [0xpantera/halcyon](https://github.com/0xpantera/halcyon) - Uses parser combinators for lexer and parser instead of regular expressions. Work in progress. Check out the project README for details on current functionality and progress.
 
 ## OCaml
 
