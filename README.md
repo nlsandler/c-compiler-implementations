@@ -60,6 +60,11 @@ For projects hosted elsewhere, use this format:
 
 * [nlsandler/nqcc2](https://github.com/nlsandler/nqcc2) - This is the official reference implementation for the book!
 
+* [lc](https://git.sr.ht/~laumann/lc) - Work in progress, Part I
+  completed, implements extra credit features (Duff's
+  device!). Follows the book fairly closely. Has no dependencies
+  beyond the OCaml stdlib.
+
 ## Perl
 
 * [sir-galahad/adcc](https://github.com/sir-galahad/adcc) - C compiler in Perl, for Linux seemed like a good idea, Perl hashes make it quick to build complex data structures.
