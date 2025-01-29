@@ -46,6 +46,8 @@ For projects hosted elsewhere, use this format:
 
 ## C
 
+* [LesleyLai/mcc](https://github.com/LesleyLai/mcc) - A C23 implementation. While loosely following the book, I also consulted other resources, and this implementation has notable deviations, including a handwritten lexer, name resolution within the parser, and a slightly different IR design.
+
 ## C++
 
 * [Gnomeball/C-Compiler](https://github.com/Gnomeball/C-Compiler) - Implemented on Linux; only notable change from the intended design is the use of a byte code representation instead of an AST while parsing; so far only chapter one is 'complete', though it's extremely rough.
