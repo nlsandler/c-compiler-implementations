@@ -14,6 +14,7 @@ See the [contributing](#contributing) section for details on how to add your imp
   * [C](#c)
   * [C++](#c-1)
   * [Haskell](#haskell)
+  * [Java](#java)
   * [OCaml](#ocaml)
   * [Perl](#perl)
   * [Python](#python)
@@ -57,6 +58,10 @@ For projects hosted elsewhere, use this format:
 ## Haskell
 
 * [0xpantera/halcyon](https://github.com/0xpantera/halcyon) - Uses parser combinators for lexer and parser instead of regular expressions. Work in progress. Check out the project README for details on current functionality and progress.
+
+## Java
+
+* [dplassgit/adventofcompilers](https://github.com/dplassgit/adventofcompilers) - Java 21 implementation. Hand-rolled lexer (no regexp). Pretty faithful to the book, except with more meaningful names to disambiguate AST nodes from Tacky nodes from Assembly nodes. Complete through Chapter 11 (not including extra credits.)
 
 ## OCaml
 
