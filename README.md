@@ -78,7 +78,7 @@ For projects hosted elsewhere, use this format:
 
 ## Python
 
-* [gh-nate/wacc](https://github.com/gh-nate/wacc) - Work in progress. Did not expect to write so many tests so progress will be slow as I also explore organizing and adding tests based on what's in the book.
+* [gh-nate/wacc](https://github.com/gh-nate/wacc) - Part I completed without extra credits. Verification relies on test suite mentioned in the book.
 
 ## Rust
 
