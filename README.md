@@ -89,3 +89,5 @@ For projects hosted elsewhere, use this format:
 * [neildanson/c_compiler](https://github.com/neildanson/c_compiler) - Rust implementation based entirely on the book, following x86-64. Verified working on WSL2 on Windows and MacOS. Work In progress.
 
 * [ysono/compiler-c-sandler](https://github.com/ysono/compiler-c-sandler/) - Implementation details diverge from the book's instructions in various ways. The behavior is consistent with the way the book clamps down on undefined behaviors. Tested on Linux and Intel Mac. Work in progress.
+
+* [asibahi/trjm](https://github.com/asibahi/trjm/) - Lexer and Parser written using parser combinator library `nom` and `nom-language`, but otherwise faithful to the book. As of Mar 16 it is up to chapter 13 (doubles), including extra features.
