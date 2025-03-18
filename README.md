@@ -55,6 +55,8 @@ For projects hosted elsewhere, use this format:
 
 * [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) - C++ (>=17) implementation for Linux: with some builtin preprocessing, comprehensive error messages with source locations and more features to come! (Part 1, 2 and extra-credits done. Part 3 in progress.)
 
+* [Sh0g0-1758/scarlet](https://github.com/Sh0g0-1758/scarlet) - C++ (>=20) implementation featuring multiline error recovery and CI-verified builds. Completed Part 1 with all extra credits. Implementation largely follows the book with deviations in semantic analysis stage. Parts 2/3 in active development targeting x86_64 (Linux/macOS). Roadmap includes extensive static analysis optimizations and a future machine learning framework. Built with CMake and tested across GCC/Clang.
+
 ## Haskell
 
 * [0xpantera/halcyon](https://github.com/0xpantera/halcyon) - Uses parser combinators for lexer and parser instead of regular expressions. Work in progress. Check out the project README for details on current functionality and progress.
