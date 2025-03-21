@@ -13,6 +13,7 @@ See the [contributing](#contributing) section for details on how to add your imp
   * [Ada](#ada)
   * [C](#c)
   * [C++](#c-1)
+  * [Go](#go)
   * [Haskell](#haskell)
   * [Java](#java)
   * [OCaml](#ocaml)
@@ -56,6 +57,10 @@ For projects hosted elsewhere, use this format:
 * [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) - C++ (>=17) implementation for Linux: with some builtin preprocessing, comprehensive error messages with source locations and more features to come! (Part 1, 2 and extra-credits done. Part 3 in progress.)
 
 * [Sh0g0-1758/scarlet](https://github.com/Sh0g0-1758/scarlet) - C++ (>=20) implementation featuring multiline error recovery and CI-verified builds. Completed Part 1 with all extra credits. Implementation largely follows the book with deviations in semantic analysis stage. Parts 2/3 in active development targeting x86_64 (Linux/macOS). Roadmap includes extensive static analysis optimizations and a future machine learning framework. Built with CMake and tested across GCC/Clang.
+
+## Go
+
+* [JusticeProject/Go-C-Compiler](https://github.com/JusticeProject/Go-C-Compiler) - Following the book closely. Runs on Linux. Finished Chapter 9. No extra credit features implemented (yet).
 
 ## Haskell
 
