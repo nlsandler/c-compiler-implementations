@@ -70,6 +70,8 @@ For projects hosted elsewhere, use this format:
 
 * [dplassgit/adventofcompilers](https://github.com/dplassgit/adventofcompilers) - Java 21 implementation. Hand-rolled lexer (no regexp). Pretty faithful to the book, except with more meaningful names to disambiguate AST nodes from Tacky nodes from Assembly nodes. Complete through Chapter 11 (not including extra credits.)
 
+* [mikeyreilly/mcc](https://github.com/mikeyreilly/mcc) - Java implementation with heavy use of pattern matching. Aiming to do extra credit stuff after I finish Chapter 20.
+
 ## OCaml
 
 * [nlsandler/nqcc2](https://github.com/nlsandler/nqcc2) - This is the official reference implementation for the book!
