@@ -15,6 +15,7 @@ See the [contributing](#contributing) section for details on how to add your imp
   * [C++](#c-1)
   * [Go](#go)
   * [Haskell](#haskell)
+  * [Jai](#jai)
   * [Java](#java)
   * [OCaml](#ocaml)
   * [Perl](#perl)
@@ -65,6 +66,10 @@ For projects hosted elsewhere, use this format:
 ## Haskell
 
 * [0xpantera/halcyon](https://github.com/0xpantera/halcyon) - Uses parser combinators for lexer and parser instead of regular expressions. Work in progress. Check out the project README for details on current functionality and progress.
+
+## Jai
+
+* [amantuladhar/jai-c-compiler](https://github.com/amantuladhar/jai-c-compiler) - [WIP Ch 8] A work-in-progress implementation of a compiler in Jai. The project is not complete but implements extra credit features from the book. Error reporting is handled as a separate concern, allowing it to point to the exact location of errors in the source file. Output in different stage are written to support polymorphic writers to make output verification easier.
 
 ## Java
 
