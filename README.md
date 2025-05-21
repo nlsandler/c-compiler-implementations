@@ -105,3 +105,7 @@ For projects hosted elsewhere, use this format:
 * [ysono/compiler-c-sandler](https://github.com/ysono/compiler-c-sandler/) - Implementation details diverge from the book's instructions in various ways. The behavior is consistent with the way the book clamps down on undefined behaviors. Tested on Linux and Intel Mac. Work in progress.
 
 * [asibahi/trjm](https://github.com/asibahi/trjm/) - Lexer and Parser written using parser combinator library `nom` and `nom-language`, but otherwise faithful to the book. As of Mar 16 it is up to chapter 13 (doubles), including extra features.
+
+## Zig
+
+* [asibahi/paella](https://github.com/asibahi/paella) - Straightforward implementation in Zig 0.14.0, with some ideas from the Zig compiler itself. Currently halfway to chapter 5 (variables).
