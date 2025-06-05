@@ -62,7 +62,7 @@ For projects hosted elsewhere, use this format:
 
 ## Cython
 
-* [romainducrocq/wheelcc](https://github.com/romainducrocq/cube) - An early version of [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) that implements chapters 1 to 13, before switching the compiler implementation to C++. It is discontinued and will no longer receive updates.
+* [romainducrocq/cube](https://github.com/romainducrocq/cube) - An early version of [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) that implements chapters 1 to 13, before switching the compiler implementation to C++. It is discontinued and will no longer receive updates.
 
 ## Go
 
