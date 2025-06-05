@@ -13,6 +13,7 @@ See the [contributing](#contributing) section for details on how to add your imp
   * [Ada](#ada)
   * [C](#c)
   * [C++](#c-1)
+  * [Cython](#cython)
   * [Go](#go)
   * [Haskell](#haskell)
   * [Jai](#jai)
@@ -55,9 +56,13 @@ For projects hosted elsewhere, use this format:
 
 * [Gnomeball/C-Compiler](https://github.com/Gnomeball/C-Compiler) - Implemented on Linux; only notable change from the intended design is the use of a byte code representation instead of an AST while parsing; so far only chapter one is 'complete', though it's extremely rough.
 
-* [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) - C++ (>=17) implementation for Linux: with some builtin preprocessing, comprehensive error messages with source locations and more features to come! (Part 1, 2 and extra-credits done. Part 3 in progress.)
+* [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) - C++ (>=17) implementation for linux and macOS: with some builtin preprocessing, comprehensive error messages with source locations and zero dependencies other than gcc. Covers 100% of the book and passes 100% of the test-suite (Parts 1, 2, 3 and extra-credits). While the overall design follows the book, many implementation details have been changed in all parts of the compiler. I am currently migrating the project to C.
 
 * [Sh0g0-1758/scarlet](https://github.com/Sh0g0-1758/scarlet) - C++ (>=20) implementation featuring multiline error recovery and CI-verified builds. Completed Part 1 with all extra credits. Implementation largely follows the book with deviations in semantic analysis stage. Parts 2/3 in active development targeting x86_64 (Linux/macOS). Roadmap includes extensive static analysis optimizations and a future machine learning framework. Built with CMake and tested across GCC/Clang.
+
+## Cython
+
+* [romainducrocq/wheelcc](https://github.com/romainducrocq/cube) - An early version of [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) that implements chapters 1 to 13, before switching the compiler implementation to C++. It is discontinued and will no longer receive updates.
 
 ## Go
 
