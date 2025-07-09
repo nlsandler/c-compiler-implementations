@@ -91,6 +91,9 @@ For projects hosted elsewhere, use this format:
   device!). Follows the book fairly closely. Has no dependencies
   beyond the OCaml stdlib.
 
+* [Maruncho/C-Toy-Compiler](https://github.com/Maruncho/C-Toy-Compiler) - [WIP] Will cover all chapters and all extra credit features, plus some extra stuff I find interesting.
+  My implementation differs mainly in its type checking, which is performed during parsing rather than in a separate pass, with the intent of adding typedef support in the future.
+
 ## Perl
 
 * [sir-galahad/adcc](https://github.com/sir-galahad/adcc) - C compiler in Perl, for Linux seemed like a good idea, Perl hashes make it quick to build complex data structures.
