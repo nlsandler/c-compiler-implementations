@@ -60,6 +60,8 @@ For projects hosted elsewhere, use this format:
 
 * [Sh0g0-1758/scarlet](https://github.com/Sh0g0-1758/scarlet) - C++ (>=20) implementation featuring multiline error recovery and CI-verified builds. Completed Part 1 with all extra credits. Implementation largely follows the book with deviations in semantic analysis stage. Parts 2/3 in active development targeting x86_64 (Linux/macOS). Roadmap includes extensive static analysis optimizations and a future machine learning framework. Built with CMake and tested across GCC/Clang.
 
+* [alexkowalenko/axc](https://github.com/alexkowalenko/axc) - Written in verbose C++23. Completed up to chapter 9 for the X86_64 architecture. Tested on MacOS and FreeBSD.
+
 ## Cython
 
 * [romainducrocq/cube](https://github.com/romainducrocq/cube) - An early version of [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) that implements chapters 1 to 13, before switching the compiler implementation to C++. It is discontinued and will no longer receive updates.
