@@ -116,6 +116,8 @@ For projects hosted elsewhere, use this format:
 
 * [asibahi/trjm](https://github.com/asibahi/trjm/) - Lexer and Parser written using parser combinator library `nom` and `nom-language`, but otherwise faithful to the book. As of Mar 16 it is up to chapter 13 (doubles), including extra features.
 
+* [oddsoc/EdgehammerC](https://github.com/oddsoc/EdgehammerC/) - An in-development implementation supporting all features through chapter 11 (including extra-credit), with commits corresponding to each completed chapter. It closely follows *Writing a C Compiler*, with some deviations in implementation details.
+
 ## Zig
 
 * [asibahi/paella](https://github.com/asibahi/paella) - Straightforward implementation in Zig 0.14.0, with some ideas from the Zig compiler itself. Currently halfway to chapter 5 (variables).
