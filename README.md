@@ -52,11 +52,11 @@ For projects hosted elsewhere, use this format:
 
 * [LesleyLai/mcc](https://github.com/LesleyLai/mcc) - A C23 implementation. While loosely following the book, I also consulted other resources, and this implementation has notable deviations, including a handwritten lexer, name resolution within the parser, and a slightly different IR design.
 
+* [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) - An ISO C17 implementation for Linux and MacOS that depends only on Glibc, POSIX and bash. It covers 100% of the book (parts 1-3 + extra-credits, passes all the tests), with additions such as a handwritten lexer, support for includes and comprehensive error messages. The design follows the book, but many details have been changed and some compiler stages were combined. The project also builds in C++.
+
 ## C++
 
 * [Gnomeball/C-Compiler](https://github.com/Gnomeball/C-Compiler) - Implemented on Linux; only notable change from the intended design is the use of a byte code representation instead of an AST while parsing; so far only chapter one is 'complete', though it's extremely rough.
-
-* [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) - C++17 implementation for Linux and MacOS: has a handwritten lexer with builtin preprocessing, comprehensive error messages with source locations and zero dependencies other than gcc. Covers 100% of the book and passes 100% of the test-suite (Parts 1, 2, 3 and extra-credits). While the overall design follows the book, many implementation details have been changed in all parts. I am currently migrating the project to C.
 
 * [Sh0g0-1758/scarlet](https://github.com/Sh0g0-1758/scarlet) - C++ (>=20) implementation featuring multiline error recovery and CI-verified builds. Completed Part 1 with all extra credits. Implementation largely follows the book with deviations in semantic analysis stage. Parts 2/3 in active development targeting x86_64 (Linux/macOS). Roadmap includes extensive static analysis optimizations and a future machine learning framework. Built with CMake and tested across GCC/Clang.
 
@@ -64,7 +64,7 @@ For projects hosted elsewhere, use this format:
 
 ## Cython
 
-* [romainducrocq/cube](https://github.com/romainducrocq/cube) - An early version of [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) that implements chapters 1 to 13, before switching the compiler implementation to C++. It is discontinued and will no longer receive updates.
+* [romainducrocq/cube](https://github.com/romainducrocq/cube) - An early version of [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) that implements chapters 1 to 13, before switching the compiler implementation to C/C++. It will no longer receive updates.
 
 ## Go
 
