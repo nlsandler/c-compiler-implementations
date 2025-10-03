@@ -118,6 +118,8 @@ For projects hosted elsewhere, use this format:
 
 * [oddsoc/EdgehammerC](https://github.com/oddsoc/EdgehammerC/) - An in-development implementation supporting all features through chapter 11 (including extra-credit), with commits corresponding to each completed chapter. It closely follows *Writing a C Compiler*, with some deviations in implementation details.
 
+* [rlivings39/learning-compilers](https://github.com/rlivings39/learning-compilers) - In-progress implementation that is my first introduction to Rust as well. Mostly follows the book. I added source location tracking to give good error messages in the lexer and parser. Contains my original implementation in TypeScript.
+
 ## Zig
 
 * [asibahi/paella](https://github.com/asibahi/paella) - Straightforward implementation in Zig 0.14.0, with some ideas from the Zig compiler itself. Currently halfway to chapter 5 (variables).
