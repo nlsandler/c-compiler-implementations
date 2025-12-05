@@ -120,6 +120,8 @@ For projects hosted elsewhere, use this format:
 
 * [rlivings39/learning-compilers](https://github.com/rlivings39/learning-compilers) - In-progress implementation that is my first introduction to Rust as well. Mostly follows the book. I added source location tracking to give good error messages in the lexer and parser. Contains my original implementation in TypeScript.
 
+* [DanielleB-R/dcc](https://github.com/DanielleB-R/dcc) - An implementation of all 20 chapters in Rust, including all Part I extra credit. Considering further extensions to compile real C code, or an ARM backend. Built for Linux and macOS.
+
 ## Zig
 
 * [asibahi/paella](https://github.com/asibahi/paella) - Straightforward implementation in Zig 0.14.0, with some ideas from the Zig compiler itself. Currently halfway to chapter 5 (variables).
