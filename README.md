@@ -62,6 +62,8 @@ For projects hosted elsewhere, use this format:
 
 * [alexkowalenko/axc](https://github.com/alexkowalenko/axc) - Written in verbose C++23. Completed up to chapter 9 for the X86_64 architecture. Tested on MacOS and FreeBSD.
 
+* [Fare9/myccompiler](https://github.com/Fare9/MyCCompiler) - C++ (>= 20) Implementation of the C compiler in C++ with the help of utils libraries from LLVM (with the idea of adding LLVM IR as one of the back-ends), the semantic analysis, as well as some part of the tacky IR are a bit different from the explanations of the book.
+
 ## Cython
 
 * [romainducrocq/cube](https://github.com/romainducrocq/cube) - An early version of [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) that implements chapters 1 to 13, before switching the compiler implementation to C/C++. It will no longer receive updates.
