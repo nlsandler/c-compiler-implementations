@@ -64,6 +64,8 @@ For projects hosted elsewhere, use this format:
 
 * [Fare9/myccompiler](https://github.com/Fare9/MyCCompiler) - C++ (>= 20) Implementation of the C compiler in C++ with the help of utils libraries from LLVM (with the idea of adding LLVM IR as one of the back-ends), the semantic analysis, as well as some part of the tacky IR are a bit different from the explanations of the book.
 
+* [VachanVY/nanocc](https://github.com/VachanVY/nanocc) - C++23 implementation of a tiny subset of the C language. Completed up to Chapter 9. Tested on Linux. I will be implementing in the following order: `Part 1 -> Part 3`, `Part 2` sometime later.
+
 ## Cython
 
 * [romainducrocq/cube](https://github.com/romainducrocq/cube) - An early version of [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) that implements chapters 1 to 13, before switching the compiler implementation to C/C++. It will no longer receive updates.
@@ -121,6 +123,8 @@ For projects hosted elsewhere, use this format:
 * [oddsoc/EdgehammerC](https://github.com/oddsoc/EdgehammerC/) - An in-development implementation supporting all features through chapter 11 (including extra-credit), with commits corresponding to each completed chapter. It closely follows *Writing a C Compiler*, with some deviations in implementation details.
 
 * [rlivings39/learning-compilers](https://github.com/rlivings39/learning-compilers) - In-progress implementation that is my first introduction to Rust as well. Mostly follows the book. I added source location tracking to give good error messages in the lexer and parser. Contains my original implementation in TypeScript.
+
+* [DanielleB-R/dcc](https://github.com/DanielleB-R/dcc) - An implementation of all 20 chapters in Rust, including all Part I extra credit. Considering further extensions to compile real C code, or an ARM backend. Built for Linux and macOS.
 
 ## Zig
 
