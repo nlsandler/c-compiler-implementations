@@ -62,6 +62,8 @@ For projects hosted elsewhere, use this format:
 
 * [alexkowalenko/axc](https://github.com/alexkowalenko/axc) - Written in verbose C++23. Completed up to chapter 9 for the X86_64 architecture. Tested on MacOS and FreeBSD.
 
+* [VachanVY/nanocc](https://github.com/VachanVY/nanocc) - C++23 implementation of a tiny subset of the C language. Completed up to Chapter 9. Tested on Linux. I will be implementing in the following order: `Part 1 -> Part 3`, `Part 2` sometime later.
+
 ## Cython
 
 * [romainducrocq/cube](https://github.com/romainducrocq/cube) - An early version of [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) that implements chapters 1 to 13, before switching the compiler implementation to C/C++. It will no longer receive updates.
