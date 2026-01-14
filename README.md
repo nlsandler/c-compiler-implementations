@@ -13,6 +13,7 @@ See the [contributing](#contributing) section for details on how to add your imp
   * [Ada](#ada)
   * [C](#c)
   * [C++](#c-1)
+  * [Clojure](#clojure)
   * [Cython](#cython)
   * [Go](#go)
   * [Haskell](#haskell)
@@ -65,6 +66,10 @@ For projects hosted elsewhere, use this format:
 * [Fare9/myccompiler](https://github.com/Fare9/MyCCompiler) - C++ (>= 20) Implementation of the C compiler in C++ with the help of utils libraries from LLVM (with the idea of adding LLVM IR as one of the back-ends), the semantic analysis, as well as some part of the tacky IR are a bit different from the explanations of the book.
 
 * [VachanVY/nanocc](https://github.com/VachanVY/nanocc) - C++23 implementation of a tiny subset of the C language. Completed up to Chapter 9. Tested on Linux. I will be implementing in the following order: `Part 1 -> Part 3`, `Part 2` sometime later.
+
+## Clojure 
+
+* [kaepr/cljcc](https://github.com/kaepr/cljcc) - Clojure implementation of a subset of C language. Completed up to chapter 12. Follows the book very closely.
 
 ## Cython
 
