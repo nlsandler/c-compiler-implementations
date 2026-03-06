@@ -22,6 +22,7 @@ See the [contributing](#contributing) section for details on how to add your imp
   * [Java](#java)
   * [OCaml](#ocaml)
   * [Perl](#perl)
+  * [Purescript](#purescript)
   * [Python](#python)
   * [Rust](#rust)
 
@@ -112,6 +113,10 @@ For projects hosted elsewhere, use this format:
 ## Perl
 
 * [sir-galahad/adcc](https://github.com/sir-galahad/adcc) - C compiler in Perl, for Linux seemed like a good idea, Perl hashes make it quick to build complex data structures.
+
+## Purescript
+
+* [pmd3d/clodpurs](https://github.com/pmd3d/clodpurs) - Runs on Ubuntu Linux with gcc. No extra credit or optimizations. Purescript partial rewrite of the Ocaml reference as a LLM exercise, so nothing added currently.
 
 ## Python
 
