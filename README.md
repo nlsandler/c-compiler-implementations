@@ -87,6 +87,7 @@ For projects hosted elsewhere, use this format:
 ## Haskell
 
 * [0xpantera/halcyon](https://github.com/0xpantera/halcyon) - Uses parser combinators for lexer and parser instead of regular expressions. Work in progress. Check out the project README for details on current functionality and progress.
+* [pmd3d/clodhask](https://github.com/pmd3d/clodhask) - Runs on Ubuntu Linux with gcc. No extra credit or optimizations. Partial rewrite of the Ocaml reference as a LLM exercise, so nothing added currently.
 
 ## Jai
 
