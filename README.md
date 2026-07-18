@@ -25,6 +25,7 @@ See the [contributing](#contributing) section for details on how to add your imp
   * [Purescript](#purescript)
   * [Python](#python)
   * [Rust](#rust)
+  * [Zig](#zig)
 
 # Contributing
 
@@ -147,3 +148,4 @@ For projects hosted elsewhere, use this format:
 ## Zig
 
 * [asibahi/paella](https://github.com/asibahi/paella) - Straightforward implementation in Zig 0.14.0, with some ideas from the Zig compiler itself. Currently halfway to chapter 5 (variables).
+* * [igor84/wcc](https://github.com/igor84/wcc) - Full implementation of all the chapters from the book including the extra features written in Zig. Code design is different from what the book suggests since data oriented design advertised by Zig compiler itself was used. 
