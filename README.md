@@ -20,6 +20,7 @@ See the [contributing](#contributing) section for details on how to add your imp
   * [Haskell](#haskell)
   * [Jai](#jai)
   * [Java](#java)
+  * [Not-Quite-C](#not-quite-c)
   * [OCaml](#ocaml)
   * [Perl](#perl)
   * [Purescript](#purescript)
@@ -99,6 +100,10 @@ For projects hosted elsewhere, use this format:
 * [dplassgit/adventofcompilers](https://github.com/dplassgit/adventofcompilers) - Java 21 implementation. Hand-rolled lexer (no regexp). Pretty faithful to the book, except with more meaningful names to disambiguate AST nodes from Tacky nodes from Assembly nodes. Complete through Chapter 11 (not including extra credits.)
 
 * [mikeyreilly/mcc](https://github.com/mikeyreilly/mcc) - Java implementation with heavy use of pattern matching. Aiming to do extra credit stuff after I finish Chapter 20.
+
+## Not-Quite-C
+
+* [romainducrocq/wacc-selfhosted](https://github.com/romainducrocq/wacc-selfhosted/) - This is a full selfhosted implementation written in the book’s **Not-Quite-C** subset. The compiler can first be bootstrapped with gcc/clang, [nqcc2](https://github.com/nlsandler/nqcc2/tree/extra-credit/), [wheelcc](https://github.com/romainducrocq/wheelcc/tree/0.3.0) or <ins>your own implementation</ins> and then rebuild itself (multiple times!) on Linux, MacOS and FreeBSD: in result, the selfhosted compiler passes all 20 chapters of the test suite with extra credits. You can also use it to test that your compiler can build a large program using every language feature in WaCC!
 
 ## OCaml
 
