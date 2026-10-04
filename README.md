@@ -129,6 +129,8 @@ For projects hosted elsewhere, use this format:
 
 * [gh-nate/wacc](https://github.com/gh-nate/wacc) - Part I completed without extra credits. Verification relies on test suite mentioned in the book.
 
+* [jmikkola/writing-a-c-compiler-python](https://github.com/jmikkola/writing-a-c-compiler-python) - A complete implementation of all 20 chapters (parts I-III), including the extra credit features. Follows the book's design fairly closely.
+
 ## Rust
 
 * [ceronman/writing-a-c-compiler](https://github.com/ceronman/writing-a-c-compiler) - Work in progress, I have implemented up to chapter 12 including all extra-credit. Only macOS supported for now. I push updates almost every day.
