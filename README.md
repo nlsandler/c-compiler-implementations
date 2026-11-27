@@ -60,7 +60,7 @@ For projects hosted elsewhere, use this format:
 
 ## C++
 
-* [Gnomeball/C-Compiler](https://github.com/Gnomeball/C-Compiler) - Implemented on Linux; only notable change from the intended design is the use of a byte code representation instead of an AST while parsing; so far only chapter one is 'complete', though it's extremely rough.
+* [Gnomeball/C-Compiler](https://github.com/Gnomeball/C-Compiler) - Implemented on Linux/MacOS in fairly basic C++; only notable change from the intended design is the use of a byte code representation instead of an AST while parsing; progress so far is up to chapter four with all extra credit.
 
 * [Sh0g0-1758/scarlet](https://github.com/Sh0g0-1758/scarlet) - C++ (>=20) implementation featuring multiline error recovery and CI-verified builds. Completed Part 1 with all extra credits. Implementation largely follows the book with deviations in semantic analysis stage. Parts 2/3 in active development targeting x86_64 (Linux/macOS). Roadmap includes extensive static analysis optimizations and a future machine learning framework. Built with CMake and tested across GCC/Clang.
 
